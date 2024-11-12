@@ -1,7 +1,6 @@
 
 ---
-
-# 🌐 Verix (VRX) Token
+<h1 align="center">🌐 Verix (VRX) Token 🌐</h1>
 
 <p align="center">
   <img src="images/verix-logo.png" alt="Verix Logo" width="200" height="200"/>
