@@ -3,7 +3,6 @@
 
 # 🌐 Verix (VRX) Token
 
-![Verix Logo](https://via.placeholder.com/200x80.png?text=VERIX+Logo)  
 *An ERC20 token on Ethereum and Polygon with advanced functionalities.*
 
 ---
