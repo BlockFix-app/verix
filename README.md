@@ -6,7 +6,7 @@
   <img src="images/verix-logo.png" alt="Verix Logo" width="200" height="200"/>
 </p>
 
-<h2 align="center">*An ERC20 token on Ethereum and Polygon with advanced functionalities.*</h2>
+<h2 align="center">An ERC20 token on Ethereum and Polygon with advanced functionalities.</h2>
 ---
 
 ### 📜 **Token Summary**
